@@ -1,0 +1,14 @@
+*.pdf
+.DS_Store
+.env
+.env.*.local
+.env.local
+*.log
+
+Computer1_2026A.pdf
+LabHW_315723478.pdf
+LabHW_code_report.docx
+scenary.mat
+SpongeBob.mat
+
+.venv/
